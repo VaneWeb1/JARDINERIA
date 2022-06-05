@@ -1,0 +1,35 @@
+body{
+    background-size: 100%;
+}
+.form-register{
+width: 500px;
+background-color: rgb(218, 29, 186);
+padding: 40px;
+margin: auto;
+margin-top: 100px;
+border-radius:4px;
+font-family:Calibri;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.controls{
+width: 100%;
+background: rgb(228, 61, 186);
+padding: 10px;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid rgb(209, 17, 183);
+font-family:Calibri;
+font-size: 18px;
+}
+button{
+width:100%;
+}
+h1{
+color: #000000;
+size: 20px;
+font-family:fantasy;
+}

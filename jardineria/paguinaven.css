@@ -1,0 +1,38 @@
+a{
+color: black;
+background-color:  rgb(238, 153, 206);
+
+font-size: 25px;
+border: black;
+
+}
+img{
+    background-color:  rgb(238, 153, 206);
+
+}
+
+div{
+    background-color:  rgb(238, 153, 206);
+}
+
+h4{
+    background-color: rgb(238, 153, 206);
+
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(238, 153, 206) ;
+}
+h3{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(235, 0, 176); 
+    background-color:rgb(238, 153, 206);
+
+}
+h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(235, 0, 176); 
+    background-color: rgb(238, 153, 206);
+
+}
